@@ -1,0 +1,100 @@
+{
+    "navigation": {
+        "home": "Beranda",
+        "about": "Ngeunaan abdi",
+        "projects": "Proyék",
+        "blog": "Blog",
+        "getInTouch": "Kontak Kuring",
+        "brand": "./rifkimaulana"
+    },
+    "heroSection": {
+        "intro": "Spésialisasi dina tumpukan MERN. Kuring ngungkit téknologi pang anyarna pikeun ngahirupkeun proyék wéb.",
+        "tech": "{ Node JS, Tailwind CSS, NextJS, MongoDB, ReactJS, MySQL... }",
+        "seeMyWorksBtn": "Tingali karya kuring",
+        "downloadcv": "Unduh CV"
+    },
+    "aboutSection": {
+        "abouttitle": "Ngaréngsékeun masalah <Kode />",
+        "aboutdesc": "Pamekar Full-Stack indie anu geus ngadegkeun pengalaman langkung ti 3 taun.",
+        "aboutp1": "Halo, abdi téh Rifki Maulana, lulusan jurusan IPA ti SMA Negeri 1 Jalaksana anu gaduh latar bélakang nu kuat dina programming jeung komputasi.",
+        "aboutp2": "Kapanggeh abdi dina matématis geus ngahareupan prosés panalungtikan abdi dina programming komputer, hususna dina téknologi MERN (MongoDB, Express.js, React, Node.js).",
+        "aboutp3": "Abdi nyenengkeun pangajaran téhnologi anyar terus jeung ngarujukan jeung tren industri. Abdi nyandak dina lingkungan tim, nangtukeun kalaborasi méré inovasi, tapi abdi ogé gaduh kénging pikeun nglaksanakeun efektifana énggal kudu.",
+        "aboutp4": "Kalawan passion pikeun pangembangan terus jeung ngahasilkeun industri téknologi, abdi parantos siap pikeun nglawan tantangan anyar dina pangembangan piranti lunak."
+    },
+    "skillsSection": {
+        "node": {
+            "desc": "Ngawangun pengetahuan Node.js anu kuat sareng ngembangkeun aplikasi web backend tingkat lanjut",
+            "name": "Node JS"
+        },
+        "react": { "desc": "Keahlian dina ngawangun SPA modérn sareng aplikasi web", "name": "React JS" },
+        "next": { "desc": "Rendering server-side nu cepét, routing dinamis, jeung kode anu langkung sedikit", "name": "Next JS" },
+        "git": { "desc": "Alat DevOps pikeun ngatur manajemén kode sumber singkat", "name": "Git" },
+        "tailwind": { "desc": "Framewok CSS frontend anu utilitas-utama jeung sering digunakeun", "name": "Tailwind CSS" },
+        "mongo": {
+            "desc": "Ngagunakeun MongoDB pikeun pangolah basis data anu bisa diskalakeun dina backend",
+            "name": "Mongo DB"
+        },
+        "mysql": { "desc": "Manajemén basis data relasional, ngawangun aplikasi anu bisa diskalakeun", "name": "My SQL" },
+        "firebase": { "desc": "Ngawangun aplikasi jeung basis data, otentikasi, sareng layanan cloud", "name": "Firebase" },
+        "socketio": {
+            "desc": "Komunikasi real-time, manajemén acara, koneksi terorganisir, penanganan kasalahan",
+            "name": "Socket.io"
+        }
+    },
+    "projectsSection": {
+        "title": "Proyék {Dev} Kuring",
+        "desc": "Ti Aplikasi Ponsél ka Wébsit jeung Game",
+        "projectdesc": {
+            "1": "Strange Bird nyaéta game indie anu menarik anu dikembangkeun nganggo Godot Engine anu serba guna jeung GDScript anu ekspresif.",
+            "2": "Zenith AI Chatbot, didukung ku React.js jeung Groq SDK API, nyadiakeun AI percakapan tingkat luhur.",
+            "3": "Jélajah pikiran méndém tentang topik-topik anu beragam lewat platform blog urang anu dibangun nganggo MERN Stack.",
+            "4": "Ebuxs mangrupikeun situs wéb perpustakaan buku online dimana anjeun tiasa nyerat sareng unggah buku anjeun, sareng maca buku anu anjeun pikahoyong"
+        },
+        "projectTitle": {
+            "1": "Strange Bird",
+            "2": "Zenith AI Chatbot",
+            "3": "Thoughtlistblog",
+            "4": "Ebuxs"
+        },
+        "projectTech": {
+            "1": { "a": "Godot Engine", "b": "GD Script" },
+            "2": { "a": "Groq-sdk", "b": "React Js" },
+            "3": { "a": "Mongo DB", "b": "Express JS", "c": "React JS", "d": "Node JS" },
+            "4": "React JS"
+        },
+        "demobtn": "Tingali Demo",
+        "repobtn": "Sumber Kode",
+        "seeallbtn": "Tingali Sakabéh Proyék"
+    },
+
+    "contactSection": {
+        "title": "Hayu urang [Gawé] bareng",
+        "desc": "Hayu urang bahas sareng ngamimitian kontrak",
+        "subjectplc": "Subyék",
+        "nameplc": "Ngaran Anjeun",
+        "emailplc": "Email Anjeun",
+        "msgplc": "Pesen Anjen",
+        "sendbtn": "Ngirim Email"
+    },
+    "footerSection": {
+        "name": "Rifki Maulana",
+        "footer": "Hatur nuhun pikeun ngadatangan ramatloka kuring! Miharep anjeun ngarasakeun eusi Kuring geus disiapkeun. Wilujeng sumping sareng tong hilap nganjang deui!",
+        "cr": "Copyright © 2024. Sadaya hak ditangtayungan.",
+
+        "email": "rifki.coding@gmail.com",
+        "address": "Kuningan, Jawa Barat"
+    },
+    "utils": {
+        "404": "Teu aya proyék anu cocog sareng kriteria pamilarian anjeun.",
+        "bckbtn": "Balik ka beranda",
+        "srch": "Milarian dumasar judul atanapi téknologi...",
+        "500": {
+            "title": "Halaman ieu dina konstruksi.",
+            "desc": "Kami digawé teuas pikeun masihan anjeun pangalaman pangalusna!"
+        },
+        "notfound": {
+            "title": "Halaman Teu Kapanggih",
+            "desc": "Hapunten, halaman nu dipilarian teu aya. Mangga parios URL atanapi balik deui ka halaman utama."
+        }
+    }
+}

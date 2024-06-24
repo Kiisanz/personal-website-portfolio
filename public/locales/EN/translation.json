@@ -1,0 +1,116 @@
+{
+    "navigation": {
+        "home": "Home",
+        "about": "About me",
+        "projects": "Projects",
+        "blog": "Blog",
+        "getInTouch": "Get in touch",
+        "brand": "./rifkimaulana"
+    },
+    "heroSection": {
+        "HeroText": "FULL-STACK DEVELOPER.",
+        "tech": "{ Node JS, Tailwind CSS, NextJS, MongoDB, ReactJS, MySQL... }",
+        "intro": "Specializing in MERN Stack. I leverage cutting-edge technologies to bring web projects to life.",
+        "seeMyWorksBtn": "See my works",
+        "downloadcv": "Download CV"
+    },
+    "aboutSection": {
+        "abouttitle": "Problem Solver <Code />",
+        "aboutdesc": "An indie Full-Stack developer with over 3 years of experience.",
+        "aboutp1": "Hello, I'm Rifki Maulana, a graduate of the Science track from SMA Negeri 1 Jalaksana Highschool with a strong background in programming and computing.",
+        "aboutp2": "My proficiency in mathematics has significantly accelerated my learning process in computer programming, particularly in MERN technology (MongoDB, Express.js, React, Node.js).",
+        "aboutp3": "I enjoy continuously learning new technologies and staying updated with industry trends. I thrive in team environments, believing collaboration fosters innovation, yet I also possess the ability to work effectively independently.",
+        "aboutp4": "With a passion for ongoing growth and contributing to the tech industry, I'm ready to tackle new challenges in software development."
+    },
+
+    "skillsSection": {
+        "node": {
+            "desc": "Building advanced backend web applications using Node.js",
+            "name": "Node JS"
+        },
+        "react": {
+            "desc": "Skills in building modern SPAs and web applications",
+            "name": "React JS"
+        },
+        "next": {
+            "desc": "Fast server-side rendering, dynamic routing, and minimalistic code",
+            "name": "Next JS"
+        },
+        "git": {
+            "desc": "DevOps tool for managing source code",
+            "name": "Git"
+        },
+        "tailwind": {
+            "desc": "Versatile frontend CSS framework commonly used",
+            "name": "Tailwind CSS"
+        },
+        "mongo": {
+            "desc": "Using MongoDB for scalable backend database management",
+            "name": "Mongo DB"
+        },
+        "mysql": {
+            "desc": "Relational database management, building scalable applications",
+            "name": "My SQL"
+        },
+        "firebase": {
+            "desc": "Building applications, databases, authentication, and cloud services",
+            "name": "Firebase"
+        },
+        "socketio": {
+            "desc": "Real-time communication, event management, organized connections, error handling",
+            "name": "Socket.io"
+        }
+    },
+
+    "projectsSection": {
+        "title": "My {Dev} Projects",
+        "desc": "From Mobile Apps to Websites and Games",
+        "projectdesc": {
+            "1": "Strange Bird is an intriguing indie game developed using the versatile Godot Engine and expressive GDScript.",
+            "2": "Zenith AI Chatbot, powered by React.js and Groq SDK API, delivers advanced conversational AI.",
+            "3": "Explore deep thoughts on various topics through our blog platform built with the MERN Stack.",
+            "4": "Ebuxs is an online book library website where you can write and upload your books, and read books as you please"
+        },
+        "projectTitle": {
+            "1": "Strange Bird",
+            "2": "Zenith AI Chatbot",
+            "3": "Thoughtlistblog",
+            "4": "Ebuxs"
+        },
+        "projectTech": {
+            "1": { "a": "Godot Engine", "b": "GD Script" },
+            "2": { "a": "Groq-sdk", "b": "React Js" },
+            "3": { "a": "My SQL", "b": "Laravel" },
+            "4": "React JS"
+        },
+        "demobtn": "View Demo",
+        "repobtn": "Source Code",
+        "seeallbtn": "View All Projects"
+    },
+    "contactSection": {
+        "title": "Let's [Work] Together",
+        "desc": "Let's Discuss and Start The Contract.",
+        "subjectplc": "Subject",
+        "nameplc": "Your name",
+        "emailplc": "Email",
+        "msgplc": "Enter your message",
+        "sendbtn": "Send Email"
+    },
+    "footerSection": {
+        "name": "Rifki Maulana",
+        "footer": "Thank you for visiting my website! Hope you enjoy the content I have prepared. Enjoy and don't forget to visit again!",
+        "cr": "Copyright © 2024. All rights reserved.",
+        "email": "rifki.coding@gmail.com",
+        "address": "Kunigan, West Java"
+    },
+    "utils": {
+        "404": "No projects match your search criteria.",
+        "bckbtn": "Back to home",
+        "srch": "Search by title or tech stack...",
+        "500": { "title": "This page is under construction.", "desc": "We are working hard to give you the best experience!" },
+        "notfound": {
+            "title": "Page Not Found",
+            "desc": "Sorry, the page you are looking for does not exist. Please check the URL or return to the homepage."
+        }
+    }
+}

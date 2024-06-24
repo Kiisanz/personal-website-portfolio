@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Manrope';
+    src: url('./assets/fonts/manrope-regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Manrope';
+    src: url('./assets/fonts/manrope-medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url('./assets/fonts/manrope-bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    font-family: 'Manrope', sans-serif;
+}

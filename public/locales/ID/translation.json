@@ -1,0 +1,121 @@
+{
+    "navigation": {
+        "brand": "./rifkimaulana",
+        "home": "Beranda",
+        "about": "Tentang saya",
+        "projects": "Proyek",
+        "blog": "Blog",
+        "getInTouch": "Hubungi kami"
+    },
+    "heroSection": {
+        "HeroText": "DEVELOPER FULL-STACK.",
+        "tech": "{ Node JS, Tailwind CSS, NextJS, MongoDB, ReactJS, MySQL... }",
+        "intro": "Spesialisasi dalam MERN Stack. Saya memanfaatkan teknologi terkini untuk menghidupkan proyek web.",
+        "seeMyWorksBtn": "Lihat proyek",
+        "downloadcv": "Unduh CV"
+    },
+    "aboutSection": {
+        "abouttitle": "Pemecah Masalah <Kode />",
+        "aboutdesc": "Seorang pengembang Full-Stack indie dengan pengalaman lebih dari 3 tahun.",
+        "aboutp1": "Halo, saya Rifki Maulana, lulusan jurusan IPA dari SMA Negeri 1 Jalaksana dengan latar belakang kuat dalam pemrograman dan komputasi.",
+        "aboutp2": "Kemampuan saya dalam matematika telah secara signifikan mempercepat proses pembelajaran saya dalam pemrograman komputer, terutama dalam teknologi MERN (MongoDB, Express.js, React, Node.js).",
+        "aboutp3": "Saya menikmati terus belajar teknologi baru dan tetap update dengan tren industri. Saya berkembang dalam lingkungan tim, percaya bahwa kolaborasi menghasilkan inovasi, namun saya juga memiliki kemampuan untuk bekerja secara efektif secara mandiri.",
+        "aboutp4": "Dengan passion untuk pertumbuhan berkelanjutan dan berkontribusi dalam industri teknologi, saya siap menghadapi tantangan baru dalam pengembangan perangkat lunak."
+    },
+
+    "skillsSection": {
+        "node": {
+            "desc": "Building advanced backend web applications using Node.js",
+            "name": "Node JS"
+        },
+        "react": {
+            "desc": "Skills in building modern SPAs and web applications",
+            "name": "React JS"
+        },
+        "next": {
+            "desc": "Fast server-side rendering, dynamic routing, and minimalistic code",
+            "name": "Next JS"
+        },
+        "git": {
+            "desc": "DevOps tool for managing source code",
+            "name": "Git"
+        },
+        "tailwind": {
+            "desc": "Versatile frontend CSS framework commonly used",
+            "name": "Tailwind CSS"
+        },
+        "mongo": {
+            "desc": "Using MongoDB for scalable backend database management",
+            "name": "Mongo DB"
+        },
+        "mysql": {
+            "desc": "Relational database management, building scalable applications",
+            "name": "My SQL"
+        },
+        "firebase": {
+            "desc": "Building applications, databases, authentication, and cloud services",
+            "name": "Firebase"
+        },
+        "socketio": {
+            "desc": "Real-time communication, event management, organized connections, error handling",
+            "name": "Socket.io"
+        }
+    },
+
+    "projectsSection": {
+        "title": "Proyek {Dev} Saya ",
+        "desc": "Dari Aplikasi Mobile hingga Website dan Permainan",
+        "projectdesc": {
+            "1": "Strange Bird adalah game indie menarik yang dikembangkan menggunakan Godot Engine serbaguna dan GDScript yang ekspresif.",
+            "2": "Zenith AI Chatbot, didukung oleh React.js dan Groq SDK API, menghadirkan AI percakapan tingkat lanjut.",
+            "3": "Jelajahi pikiran mendalam tentang berbagai topik melalui platform blog kami yang dibangun dengan MERN Stack.",
+            "4": "Ebuxs adalah situs perpustakaan buku online tempat Anda dapat menulis dan mengunggah buku Anda, serta membaca buku sesuka Anda"
+        },
+        "projectTitle": {
+            "1": "Strange Bird",
+            "2": "Zenith AI Chatbot",
+            "3": "Thoughtlistblog",
+            "4": "Ebuxs"
+        },
+        "projectTech": {
+            "1": { "a": "Godot Engine", "b": "GD Script" },
+            "2": { "a": "Groq-sdk", "b": "React Js" },
+            "3": { "a": "Mongo DB", "b": "Express JS", "c": "React JS", "d": "Node JS" },
+            "4": "React JS"
+        },
+
+        "demobtn": "Lihat demo",
+        "repobtn": "Sumber Kode",
+        "seeallbtn": "Lihat semua proyek"
+    },
+    "contactSection": {
+        "title": "Ayo [Bekerja] Bersama",
+        "desc": "Mari Diskusikan dan Mulai Kontraknya.",
+        "subjectplc": "Subjek",
+        "nameplc": "Nama Anda",
+        "emailplc": "Email",
+        "msgplc": "Masukkan pesan Anda",
+        "sendbtn": "Kirim Email"
+    },
+    "footerSection": {
+        "name": "Rifki Maulana",
+        "footer": "Terima kasih telah mengunjungi situs web saya! Semoga Anda menikmati konten yang saya siapkan. Selamat menikmati dan jangan lupa berkunjung lagi!",
+        "cr": "Hak Cipta © 2024. Seluruh hak dilindungi.",
+
+        "email": "rifki.coding@gmail.com",
+        "address": "Kuningan, Jawa Barat"
+    },
+    "utils": {
+        "404": "Tidak ada proyek yang cocok dengan kriteria pencarian Anda.",
+        "bckbtn": "Kembali ke Beranda",
+        "srch": "Cari berdasarkan judul atau teknologi...",
+        "500": {
+            "title": "Halaman ini sedang dalam perbaikan.",
+            "desc": "Kami bekerja keras untuk memberikan Anda pengalaman terbaik!"
+        },
+        "notfound": {
+            "title": "Halaman Tidak Ditemukan",
+            "desc": "Maaf, halaman yang Anda cari tidak ada. Silakan periksa URL-nya atau kembali ke beranda."
+        }
+    }
+}
