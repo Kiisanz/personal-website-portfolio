@@ -15,4 +15,4 @@ Ide ini muncul pas ujian praktek bahasa Sunda sih, saya diminta untuk membuat pr
     - Framer Motion untuk sedikit animasi
     - i18next untuk lokalisasi bahasa
 
-Webiste demo : http://rifkicode.site 
+Webiste demo : https://personal-website-portfolio-lake.vercel.app
